@@ -1,5 +1,6 @@
 # MouseTrackGAN
-对鼠标轨迹的图灵测试 以及对抗测试  
+对鼠标轨迹的图灵测试 以及对抗测试   
+数据来源 http://bdc.saikr.com/c/cql/34541  
 
 xgboost模型  
 ![效果](./xgb/xgbCurve.svg "效果图")  
